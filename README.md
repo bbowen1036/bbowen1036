@@ -1,6 +1,4 @@
 ## Hello World, I'm Brian 👋🏾
-<hr>
-
 
 
 <img src='img/hi.png' align='right' width='400' width='auto'>

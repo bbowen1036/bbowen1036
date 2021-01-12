@@ -1,17 +1,21 @@
-### Hello World, I'm Brian 👋🏾
+## Hello World, I'm Brian 👋🏾
+<hr>
 
 
-<!--
-**bbowen1036/bbowen1036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src='img/hi.png' align='right' width='400' width='auto'>
+</br>
+</br>
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🌎 Let's Connect! ~ <a href='https://www.linkedin.com/in/brian-bowen-36456a7/'>LinkedIn</a>
+- ✍🏾 You can find my projects here ~ <a href='https://brianbowen.dev'>Portfolio</a>
+- 🔭 I’m currently working on writing a cookbook
+- 🌱 I’m currently learning React Naitive, and Python
+- 💻 I’m looking to collaborate on open source
+- 💬 Ask me about ...anything!
+- 📫 How to reach me: <a href="mailto:bbowen1036@gmail.com">bbowen106@gmail.com</a>
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I used to be a chef

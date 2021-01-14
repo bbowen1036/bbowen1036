@@ -17,3 +17,21 @@
 - 📫 How to reach me: <a href="mailto:bbowen1036@gmail.com">bbowen106@gmail.com</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to be a chef
+</br>
+</br>
+</br>
+</br>
+
+
+
+<details > <summary>💡 GitHub Stats</summary>
+
+![Brian's github stats](https://github-readme-stats.vercel.app/api?username=bbowen1036&show_icons=true&theme=radical)
+</details>
+<details > <summary>💡 Most Used Languages</summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbowen1036&langs_count=5&theme=radical)](https://github.com/bbowen1036/github-readme-stats)
+
+</details>
+
+
